@@ -392,7 +392,7 @@
                         $optionsNotThis.parents("a").css("outline", "");
                     }
                 }
-
+//test
                 this.$select.change();
                 
                 this.updateButtonText();
